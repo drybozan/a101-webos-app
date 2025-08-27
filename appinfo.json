@@ -1,0 +1,10 @@
+{
+  "id": "com.example.a101",
+  "version": "1.0.0",
+  "vendor": "SeninAdin",
+  "type": "web",
+  "main": "index.html",
+  "title": "A101 TV",
+  "icon": "icon.png"
+}
+
